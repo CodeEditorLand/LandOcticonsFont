@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/microsoft/vscode-octicons-font#readme",
   "devDependencies": {
-    "icon-font-generator": "^2.1.10"
+    "icon-font-generator": "^2.1.11"
   }
 }
